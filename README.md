@@ -2,11 +2,11 @@
 
 full stack developer from Ahmedabad. been building since the 2020 lockdown, started with Python, now doing complete apps end to end.
 
-currently: interning at **NMS Softwares** · building **[Elato](https://jalkarna.in)**
+currently interning at **NMS Softwares**, building **[Elato](https://jalkarna.in)**, freelancing since 2022.
 
 <br/>
 
-**Based** (my free Discord bot) · 37 servers · 222K+ members · 2K+ messages/day
+**Based** (free Discord bot) · 93 guilds · 226,391 members · 2K+ messages/day · completely free
 
 <br/>
 
@@ -29,7 +29,7 @@ currently: interning at **NMS Softwares** · building **[Elato](https://jalkarna
 
 <br/>
 
-**hackathons** · Vadodara 5.0 winner · PU Code 2.0 winner · IITGN finalist · PU Tech Expo finalist
+**hackathons** · Vadodara 5.0 winner · PU Code 2.0 winner · IITGN finalist · PU Tech Expo finalist · PU Code 3.0 finalist
 
 <br/>
 
