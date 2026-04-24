@@ -2,7 +2,7 @@
 
 full stack developer from Ahmedabad. been building since the 2020 lockdown, started with Python, now doing complete apps end to end.
 
-currently interning at **NMS Softwares**, building **[Elato](https://jalkarna.in)**, freelancing since 2022.
+building **[Elato](https://jalkarna.in)**, freelancing since 2022. ex-intern at **NMS Softwares** (Feb to Nov 2025).
 
 <br/>
 
