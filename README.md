@@ -6,7 +6,7 @@ building **[Elato](https://jalkarna.in)**, freelancing since 2022. ex-intern at 
 
 <br/>
 
-**Based** (free Discord bot) · 93 guilds · 226,391 members · 2K+ messages/day · completely free
+**[Based](https://jalkarna.in/based/invite/)** (free Discord bot) · 93 guilds · 226,391 members · 2K+ messages/day · completely free
 
 <br/>
 
