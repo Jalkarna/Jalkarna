@@ -1,6 +1,6 @@
 ### hi, I'm Jalkarna
 
-full stack developer from Ahmedabad. been building since the 2020 lockdown — started with Python, now doing complete apps end to end.
+full stack developer from Ahmedabad. been building since the 2020 lockdown, started with Python, now doing complete apps end to end.
 
 currently: interning at **NMS Softwares** · building **[Elato](https://jalkarna.in)**
 
