@@ -1,36 +1,28 @@
-### hi, I'm Jalkarna
+### Hi, I'm Jalkarna
 
-full stack developer from Ahmedabad. been building since the 2020 lockdown, started with Python, now doing complete apps end to end.
+Full-stack developer in Ahmedabad building production web, AI, and native tools. I work across TypeScript, Python, and Rust, from product interfaces and APIs to local-first desktop systems.
 
-building **[Elato](https://jalkarna.in)**, freelancing since 2022. ex-intern at **NMS Softwares** (Feb to Nov 2025).
+I freelance directly with clients and completed a full-stack internship at **NMS Softwares** from February to November 2025. I am currently pursuing a B.Tech in Computer Science & Engineering at **Karnavati University**.
 
-<br/>
+#### Selected work
 
-**[Based](https://jalkarna.in/based/invite/)** (free Discord bot) · 93 guilds · 226,391 members · 2K+ messages/day · completely free
+- **[Archiva](https://github.com/Jalkarna/archiva)** — native Rust CLI and MCP server that stores code-level engineering decisions in Git; distributed through npm and Homebrew.
+- **[Universal Agent Platform](https://uap-landing-page.vercel.app/)** — local-first Rust/Tauri agent workspace with scoped capabilities, approvals, encrypted state, audit history, and explicit verification outcomes.
+- **[Graphigo](https://graphigo.in/)** — client marketing site plus a private operations platform for project delivery, staff assignments, invoices, and performance reporting.
+- **[Based](https://jalkarna.in/based/invite/)** — free multimodal Discord bot serving 93 communities with 226K+ combined members and 2K+ messages per day.
 
-<br/>
+#### Core stack
 
-**things I use**
-
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Tauri](https://img.shields.io/badge/Tauri-24C8DB?style=flat-square&logo=tauri&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![React Native](https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 
-<br/>
+**Highlights:** Vadodara Hackathon 5.0 winner · PU Code Hackathon 2.0 winner · IIT Gandhinagar finalist
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Jalkarna&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jalkarna&layout=compact&hide_border=true&langs_count=6" />
-
-<br/>
-
-**hackathons** · Vadodara 5.0 winner · PU Code 2.0 winner · IITGN finalist · PU Tech Expo finalist · PU Code 3.0 finalist
-
-<br/>
-
-[jalkarna.in](https://jalkarna.in) · Ahmedabad, India
+[Portfolio](https://jalkarna.in) · [LinkedIn](https://www.linkedin.com/in/jalkarna/) · [Email](mailto:jalkrnagautam@gmail.com)
