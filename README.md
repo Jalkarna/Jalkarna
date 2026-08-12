@@ -6,10 +6,10 @@ I freelance directly with clients and completed a full-stack internship at **NMS
 
 #### Selected work
 
-- **[Archiva](https://github.com/Jalkarna/archiva)** — native Rust CLI and MCP server that stores code-level engineering decisions in Git; distributed through npm and Homebrew.
-- **[Universal Agent Platform](https://uap-landing-page.vercel.app/)** — local-first Rust/Tauri agent workspace with scoped capabilities, approvals, encrypted state, audit history, and explicit verification outcomes.
-- **[Graphigo](https://graphigo.in/)** — client marketing site plus a private operations platform for project delivery, staff assignments, invoices, and performance reporting.
-- **[Based](https://jalkarna.in/based/invite/)** — free multimodal Discord bot active across 145 servers with 222K+ combined members and 105K+ messages sent.
+- **[Archiva](https://github.com/Jalkarna/archiva)**: native Rust CLI and MCP server that stores code-level engineering decisions in Git; distributed through npm and Homebrew.
+- **[Universal Agent Platform](https://uap-landing-page.vercel.app/)**: local-first Rust/Tauri agent workspace with scoped capabilities, approvals, encrypted state, audit history, and explicit verification outcomes.
+- **[Graphigo](https://graphigo.in/)**: client marketing site plus a private operations platform for project delivery, staff assignments, invoices, and performance reporting.
+- **[Based](https://jalkarna.in/based/invite/)**: free multimodal Discord bot active across 145 servers with 222K+ combined members and 105K+ messages sent.
 
 #### Core stack
 
